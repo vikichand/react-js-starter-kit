@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/react-js-starter-kit.svg)](https://badge.fury.io/js/react-js-starter-kit)
 [![Build Status](https://travis-ci.com/vikichand/react-js-starter-kit.svg?branch=master)](https://travis-ci.com/vikichand/react-js-starter-kit)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
