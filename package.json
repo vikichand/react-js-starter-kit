@@ -1,6 +1,6 @@
 {
     "name": "react-js-starter-kit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Vikash's React JS Starter Kit",
     "keywords": [
         "react",
@@ -11,7 +11,12 @@
     ],
     "author": "Vikash Chand",
     "license": "MIT",
+    "homepage": "https://github.com/vikichand/react-js-starter-kit",
     "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vikichand/react-js-starter-kit.git"
+    },
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
