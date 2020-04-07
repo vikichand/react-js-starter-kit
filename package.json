@@ -1,7 +1,17 @@
 {
     "name": "react-js-starter-kit",
-    "version": "0.1.0",
-    "private": true,
+    "version": "1.0.0",
+    "description": "Vikash's React JS Starter Kit",
+    "keywords": [
+        "react",
+        "modern",
+        "js",
+        "javascript",
+        "starter"
+    ],
+    "author": "Vikash Chand",
+    "license": "MIT",
+    "private": false,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
@@ -16,7 +26,8 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "lint": "eslint \"{,!(node_modules)/**/}*.{js,jsx}\"",
-        "lint:fix": "prettier-eslint --write \"{,!(node_modules)/**/}*.{js,jsx}\""
+        "lint:fix": "prettier-eslint --write \"{,!(node_modules)/**/}*.{js,jsx}\"",
+        "prepublish": "yarn build"
     },
     "eslintConfig": {
         "extends": "react-app"
