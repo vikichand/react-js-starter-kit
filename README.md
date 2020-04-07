@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Quick Start
 
-:fire:Clone repository
+:fire: Clone repository
 
 ```sh
 git clone https://github.com/vikichand/react-js-starter-kit.git
