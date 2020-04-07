@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```sh
 git clone https://github.com/vikichand/react-js-starter-kit.git
 ```
-
+<hr>
 Install the package with `npm`
 
 ```sh
