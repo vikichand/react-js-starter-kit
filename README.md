@@ -12,16 +12,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 git clone https://github.com/vikichand/react-js-starter-kit.git
 ```
 <hr>
-Install the package with `npm`
+~~Install the package with `npm`~~
 
 ```sh
-npm i yarn add react-js-starter-kit
+~~npm i yarn add react-js-starter-kit~~
 ```
 
-or `yarn` - whichever you prefer
+~~or `yarn` - whichever you prefer~~
 
 ```sh
-yarn add react-css-spinners
+~~yarn add react-css-spinners~~
 ```
 
 :rocket: &nbsp; **Stay tuned**, more updates to this library will be released soon.
