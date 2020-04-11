@@ -1,6 +1,6 @@
 {
     "name": "react-js-starter-kit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "description": "React JS Starter Kit",
     "main": "src/index.js",
