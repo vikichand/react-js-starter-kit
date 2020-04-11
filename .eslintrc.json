@@ -1,6 +1,7 @@
 {
     "env": {
         "browser": true,
+        "es5": true,
         "es6": true
     },
     "parser": "babel-eslint",
@@ -14,6 +15,7 @@
     },
     "plugins": ["prettier", "react"],
     "extends": [
+        "airbnb",
         "prettier",
         "eslint:recommended",
         "plugin:react/recommended",
